@@ -1,0 +1,17 @@
+.my-component {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+ .my-component>p{
+    font-weight:bolder;
+ } 
+  
+  .orange-button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+  }
